@@ -1,0 +1,36 @@
+.home-container {
+  margin-top: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.home-heading {
+  margin-bottom: 10px;
+}
+.home-image {
+  height: 200px;
+}
+
+.home-description {
+  color: #64748b;
+}
+.home-sub-container {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-button {
+  margin-top: 10px;
+  color: #ffffff;
+  padding: 10px;
+  background-color: #0b69ff;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
